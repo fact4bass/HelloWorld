@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/fact4bass/.dotnet/store/|arch|/|tfm|",
+      "/Users/fact4bass/.nuget/packages"
+    ]
+  }
+}
